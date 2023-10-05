@@ -23,7 +23,7 @@ namespace Linq
             
            
 
-            //********************************LINQ QUERY SYNTAX*****************************
+            //********************************LINQ QUERY SYNTAX***************************
             var resultList = from emp in employees
                              join depart in departements
                              on emp.DepartementId equals depart.Id
