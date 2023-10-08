@@ -1,0 +1,110 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "TCPData/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "compile": {
+          "bin/placeholder/TCPData.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TCPData.dll": {}
+        }
+      },
+      "TCPExtensions/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "compile": {
+          "bin/placeholder/TCPExtensions.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TCPExtensions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TCPData/1.0.0": {
+      "type": "project",
+      "path": "../TCPData/TCPData.csproj",
+      "msbuildProject": "../TCPData/TCPData.csproj"
+    },
+    "TCPExtensions/1.0.0": {
+      "type": "project",
+      "path": "../TCPExtension/TCPExtensions.csproj",
+      "msbuildProject": "../TCPExtension/TCPExtensions.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "TCPData >= 1.0.0",
+      "TCPExtensions >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Simofatt\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Simofatt\\LinqPractice\\LinqPractice\\LinqPractice.csproj",
+      "projectName": "LinqPractice",
+      "projectPath": "C:\\Users\\Simofatt\\LinqPractice\\LinqPractice\\LinqPractice.csproj",
+      "packagesPath": "C:\\Users\\Simofatt\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Simofatt\\LinqPractice\\LinqPractice\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Simofatt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "C:\\Users\\Simofatt\\LinqPractice\\TCPData\\TCPData.csproj": {
+              "projectPath": "C:\\Users\\Simofatt\\LinqPractice\\TCPData\\TCPData.csproj"
+            },
+            "C:\\Users\\Simofatt\\LinqPractice\\TCPExtension\\TCPExtensions.csproj": {
+              "projectPath": "C:\\Users\\Simofatt\\LinqPractice\\TCPExtension\\TCPExtensions.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

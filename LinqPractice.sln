@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinqPractice", "LinqPractice\LinqPractice.csproj", "{9AC7B17D-DDA4-4CCD-96C5-B5CDA9AA7225}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TCPData", "TCPData\TCPData.csproj", "{1763D305-B478-49E2-8AD7-7D43D9D040B0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SRP", "SRP\SRP.csproj", "{9D317663-C4CB-40F1-B262-E85D782B674B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TCPExtensions", "TCPExtension\TCPExtensions.csproj", "{0A6CD750-031D-43D2-8D5B-25E8CDDA0C20}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LINQ_Example2", "LINQ_Example2\LINQ_Example2.csproj", "{C8D87353-08FE-4439-8923-73692E2481FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode", "LeetCode\LeetCode.csproj", "{B179A96C-0538-4876-B49A-D3B4F0DE1697}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AC7B17D-DDA4-4CCD-96C5-B5CDA9AA7225}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AC7B17D-DDA4-4CCD-96C5-B5CDA9AA7225}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AC7B17D-DDA4-4CCD-96C5-B5CDA9AA7225}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AC7B17D-DDA4-4CCD-96C5-B5CDA9AA7225}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1763D305-B478-49E2-8AD7-7D43D9D040B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1763D305-B478-49E2-8AD7-7D43D9D040B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1763D305-B478-49E2-8AD7-7D43D9D040B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1763D305-B478-49E2-8AD7-7D43D9D040B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D317663-C4CB-40F1-B262-E85D782B674B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D317663-C4CB-40F1-B262-E85D782B674B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D317663-C4CB-40F1-B262-E85D782B674B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D317663-C4CB-40F1-B262-E85D782B674B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A6CD750-031D-43D2-8D5B-25E8CDDA0C20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A6CD750-031D-43D2-8D5B-25E8CDDA0C20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A6CD750-031D-43D2-8D5B-25E8CDDA0C20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A6CD750-031D-43D2-8D5B-25E8CDDA0C20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8D87353-08FE-4439-8923-73692E2481FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8D87353-08FE-4439-8923-73692E2481FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8D87353-08FE-4439-8923-73692E2481FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8D87353-08FE-4439-8923-73692E2481FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B179A96C-0538-4876-B49A-D3B4F0DE1697}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B179A96C-0538-4876-B49A-D3B4F0DE1697}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B179A96C-0538-4876-B49A-D3B4F0DE1697}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B179A96C-0538-4876-B49A-D3B4F0DE1697}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD031CAA-AE19-4880-A03F-36632378C25A}
+	EndGlobalSection
+EndGlobal

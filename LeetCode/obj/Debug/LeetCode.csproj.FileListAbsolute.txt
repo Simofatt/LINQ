@@ -1,0 +1,8 @@
+C:\Users\Simofatt\LinqPractice\LeetCode\bin\Debug\LeetCode.exe.config
+C:\Users\Simofatt\LinqPractice\LeetCode\bin\Debug\LeetCode.exe
+C:\Users\Simofatt\LinqPractice\LeetCode\bin\Debug\LeetCode.pdb
+C:\Users\Simofatt\LinqPractice\LeetCode\obj\Debug\LeetCode.csproj.AssemblyReference.cache
+C:\Users\Simofatt\LinqPractice\LeetCode\obj\Debug\LeetCode.csproj.SuggestedBindingRedirects.cache
+C:\Users\Simofatt\LinqPractice\LeetCode\obj\Debug\LeetCode.csproj.CoreCompileInputs.cache
+C:\Users\Simofatt\LinqPractice\LeetCode\obj\Debug\LeetCode.exe
+C:\Users\Simofatt\LinqPractice\LeetCode\obj\Debug\LeetCode.pdb
