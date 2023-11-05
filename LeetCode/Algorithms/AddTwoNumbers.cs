@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace LeetCode.Algorithms
 {
-    internal class AddTwoNumbers
+    public class AddTwoNumbers
     {
     }
 }
