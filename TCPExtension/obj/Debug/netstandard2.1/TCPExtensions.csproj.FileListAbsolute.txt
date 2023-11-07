@@ -11,7 +11,6 @@ C:\Users\Simofatt\TCPExtension\obj\Debug\netstandard2.1\TCPExtensions.pdb
 C:\Users\Simofatt\LinqPractice\TCPExtension\bin\Debug\netstandard2.1\TCPExtensions.deps.json
 C:\Users\Simofatt\LinqPractice\TCPExtension\bin\Debug\netstandard2.1\TCPExtensions.dll
 C:\Users\Simofatt\LinqPractice\TCPExtension\bin\Debug\netstandard2.1\TCPExtensions.pdb
-C:\Users\Simofatt\LinqPractice\TCPExtension\obj\Debug\netstandard2.1\TCPExtensions.csproj.AssemblyReference.cache
 C:\Users\Simofatt\LinqPractice\TCPExtension\obj\Debug\netstandard2.1\TCPExtensions.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Simofatt\LinqPractice\TCPExtension\obj\Debug\netstandard2.1\TCPExtensions.AssemblyInfoInputs.cache
 C:\Users\Simofatt\LinqPractice\TCPExtension\obj\Debug\netstandard2.1\TCPExtensions.AssemblyInfo.cs

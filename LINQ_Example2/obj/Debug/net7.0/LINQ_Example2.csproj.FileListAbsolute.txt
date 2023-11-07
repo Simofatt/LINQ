@@ -18,7 +18,6 @@ C:\Users\Simofatt\LinqPractice\LINQ_Example2\bin\Debug\net7.0\LINQ_Example2.deps
 C:\Users\Simofatt\LinqPractice\LINQ_Example2\bin\Debug\net7.0\LINQ_Example2.runtimeconfig.json
 C:\Users\Simofatt\LinqPractice\LINQ_Example2\bin\Debug\net7.0\LINQ_Example2.dll
 C:\Users\Simofatt\LinqPractice\LINQ_Example2\bin\Debug\net7.0\LINQ_Example2.pdb
-C:\Users\Simofatt\LinqPractice\LINQ_Example2\obj\Debug\net7.0\LINQ_Example2.csproj.AssemblyReference.cache
 C:\Users\Simofatt\LinqPractice\LINQ_Example2\obj\Debug\net7.0\LINQ_Example2.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Simofatt\LinqPractice\LINQ_Example2\obj\Debug\net7.0\LINQ_Example2.AssemblyInfoInputs.cache
 C:\Users\Simofatt\LinqPractice\LINQ_Example2\obj\Debug\net7.0\LINQ_Example2.AssemblyInfo.cs

@@ -11,7 +11,6 @@ C:\Users\Simofatt\TCPData\obj\Debug\netstandard2.1\TCPData.pdb
 C:\Users\Simofatt\LinqPractice\TCPData\bin\Debug\netstandard2.1\TCPData.deps.json
 C:\Users\Simofatt\LinqPractice\TCPData\bin\Debug\netstandard2.1\TCPData.dll
 C:\Users\Simofatt\LinqPractice\TCPData\bin\Debug\netstandard2.1\TCPData.pdb
-C:\Users\Simofatt\LinqPractice\TCPData\obj\Debug\netstandard2.1\TCPData.csproj.AssemblyReference.cache
 C:\Users\Simofatt\LinqPractice\TCPData\obj\Debug\netstandard2.1\TCPData.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Simofatt\LinqPractice\TCPData\obj\Debug\netstandard2.1\TCPData.AssemblyInfoInputs.cache
 C:\Users\Simofatt\LinqPractice\TCPData\obj\Debug\netstandard2.1\TCPData.AssemblyInfo.cs
